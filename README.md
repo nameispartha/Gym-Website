@@ -43,4 +43,4 @@ I have developed a comprehensive fitness website called "GetFit's," aimed at pro
    - As part of future improvements, I plan to optimize images for faster page loading and further enhance accessibility features.
 
 **Conclusion:**
-   - "GetFit's" represents a well-crafted fitness website that blends aesthetic appeal with functionality. It demonstrates my proficiency in front-end technologies and a commitment to delivering a positive user experience. I am excited about the opportunity to discuss this project further and how my skills align with the requirements of your t
+   - "GetFit's" represents a well-crafted fitness website that blends aesthetic appeal with functionality. It demonstrates my proficiency in front-end technologies and a commitment to delivering a positive user experience. I am excited about the opportunity to discuss this project further and how my skills align with the requirements of your team.
